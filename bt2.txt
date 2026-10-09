@@ -1,0 +1,4 @@
+Bài tập 2 : 
+1.	Mkdir drink_module
+2.	Cd drink_module
+3.	Ni coffe.txt , tea.txt
